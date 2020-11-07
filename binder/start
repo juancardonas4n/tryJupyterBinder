@@ -12,5 +12,5 @@ args=$(shiftFirstParameter "$@")
 
 echo "Argumentos: $args"
 
-exec jupyter-notebook -- "$args"
-# exec "$@"
+# exec jupyter-notebook -- "$args"
+exec "$@"
