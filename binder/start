@@ -13,5 +13,5 @@ args=$(shiftFirstParameter "$@")
 echo "Argumentos: $args" >> data.txt
 echo "Full line: $@" >> data.txt
 
-# exec jupyter-notebook -- "$args"
-exec "$@"
+exec "jupyter-notebook $args"
+# exec "$@"
