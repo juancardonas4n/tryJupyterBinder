@@ -1,2 +1,18 @@
 Data
 
+Argumentos: -port=8888 --NotebookApp.base_url=file:///home/juancardona/Notebook
+Full line: --ip=0.0.0.0 -port=8888 --NotebookApp.base_url=file:///home/juancardona/Notebook
+Argumentos: --port=8888 --NotebookApp.base_url=file:///home/juancardona/Notebook
+Full line: --ip=0.0.0.0 --port=8888 --NotebookApp.base_url=file:///home/juancardona/Notebook
+Argumentos: --port=8888 --NotebookApp.base_url=file:///home/juancardona/Notebook
+Full line: --ip=0.0.0.0 --port=8888 --NotebookApp.base_url=file:///home/juancardona/Notebook
+Argumentos: --port=8888 --NotebookApp.base_url=file:///home/juancardona/Notebook
+Full line: --ip=0.0.0.0 --port=8888 --NotebookApp.base_url=file:///home/juancardona/Notebook
+Argumentos: --port=8888 --NotebookApp.base_url=file:///home/juancardona/Notebook
+Full line: --ip=0.0.0.0 --port=8888 --NotebookApp.base_url=file:///home/juancardona/Notebook
+Argumentos: --port=8888 --NotebookApp.base_url=file:///home/juancardona/Workbench/tryJupyterBinder/index.ipynb
+Full line: --ip=0.0.0.0 --port=8888 --NotebookApp.base_url=file:///home/juancardona/Workbench/tryJupyterBinder/index.ipynb
+Argumentos: --port=8888 --NotebookApp.base_url=file:///home/juancardona/Workbench/tryJupyterBinder/index.ipynb
+Full line: --ip=0.0.0.0 --port=8888 --NotebookApp.base_url=file:///home/juancardona/Workbench/tryJupyterBinder/index.ipynb
+Argumentos: --port=8888 --NotebookApp.base_url=file:///home/juancardona/Workbench/tryJupyterBinder/index.ipynb
+Full line: --ip=0.0.0.0 --port=8888 --NotebookApp.base_url=file:///home/juancardona/Workbench/tryJupyterBinder/index.ipynb
